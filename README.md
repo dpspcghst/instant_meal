@@ -1,2 +1,2 @@
-# instant_meal
-A lightweight meal planner.
+# Instant Meal
+Instant Meal is a lightweight meal planner.
